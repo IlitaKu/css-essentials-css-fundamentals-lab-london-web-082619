@@ -28,5 +28,6 @@ figcaption {
   text-align: center;
 }
 img {
-  align-content: center;
+  display: block;
+  auto: 0;
 }
