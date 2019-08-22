@@ -22,8 +22,8 @@ href > a {
     width: 100%;
     justify-content: center;
 }
+nav,
 figcaption {
-  font-size: 8;
   text-align: center;
 }
 img {
