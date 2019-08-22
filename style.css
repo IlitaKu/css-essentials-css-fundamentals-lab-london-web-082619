@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#featured-property > p{
+  align-content: center;
+  width: 800px;
+  text-align: center;
+}
+nav > a {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+}
+href > a {
+    margin-left:auto;
+    margin-right: auto;
+    width: 100%;
+    justify-content: center;
+}
+figcaption {
+  font-size: 8;
+  text-align: center;
+}
+img {
+  align-content: center;
+}
