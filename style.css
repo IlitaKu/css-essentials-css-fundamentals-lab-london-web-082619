@@ -7,9 +7,9 @@ h1{
   text-align: center;
 }
 #featured-property > p{
-  align-content: center;
+ text-align: center;
   width: 800px;
-  text-align: center;
+  margin: 0 auto;
 }
 nav > a {
   padding: 0 10px;
